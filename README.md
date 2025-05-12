@@ -43,7 +43,7 @@ Este é necessário para a comunicação e manipulação no banco de dados.
 Recomendo utilizar o meu arquivo para trabalhar com o banco de dados. Basta clicar [aqui](https://github.com/abraaosantosdeveloper/programming-utils/blob/main/pythonUtilities/sql_connector_util.py)
 
 ##### Alguns requisitos extras
-`
+```
 - Jwt para geração de tokens
 - Fernet para encriptação
-`
+```
