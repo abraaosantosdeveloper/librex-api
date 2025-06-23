@@ -2,7 +2,7 @@
 
 Neste documento estarão contidas informações sobre as rotas da api, regras de negócio, comunicação e manipulação do banco de dados, entre outros. Estes, serão adicionados em breve, no entanto, abaixo encontra-se uma breve instrução de bibliotecas necessárias para o uso da api.
 
-> AVISO: Este programa foi desenvolvido e testado no windows. Para usuários de MAC, podem haver diferenças e necessidade de alteração em comandos ou nos procedimentos de instalação.
+> AVISO: Este programa foi desenvolvido e testado no windows. Para usuários de MAC, pode haver diferenças e necessidade de alteração em comandos ou nos procedimentos de instalação.
 
 ---
 
